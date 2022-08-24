@@ -141,3 +141,9 @@ Example:
     * end_time: string (required)
     * task_id: int/string (optional)
     * entry_id: int/string (optional)
+
+
+Create/Update computer activity
+----------
+From https://developer.timecamp.com/docs/timecamp-api :
+![image](https://user-images.githubusercontent.com/44971435/186411070-bd00fc6b-e374-4a4c-8b48-628dbd50d5bb.png)
